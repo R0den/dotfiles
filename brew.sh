@@ -96,6 +96,7 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install excel-compare
 
 # Remove outdated versions from the cellar.
 brew cleanup
